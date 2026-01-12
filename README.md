@@ -1,3 +1,4 @@
 # WT
 this is my first repo<br>
-author Meenakshi
+author Meenakshi(CS-IT)
+
